@@ -4,7 +4,7 @@ Analyses several COVID-19 news article titles to figure out which ones are the m
 This script uses - 
 - [requests](https://requests.readthedocs.io/en/master/)
 - [spacy](https://spacy.io/)
-- Counter
+- [Counter](https://docs.python.org/3.8/library/collections.html#collections.Counter)
 
 ## How to run?
 ```
