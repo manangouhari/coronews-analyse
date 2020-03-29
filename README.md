@@ -2,8 +2,8 @@
 Analyses several COVID-19 news article titles to figure out which ones are the most used words.
 
 This script uses - 
-- requests
-- space
+- [requests](https://requests.readthedocs.io/en/master/)
+- [spacy](https://spacy.io/)
 - Counter
 
 ## How to run?
